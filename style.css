@@ -1,0 +1,37 @@
+html {
+    scroll-behavior: smooth;
+  }
+body{
+    transition: all 2s
+}
+.firstSection{
+    background-color: aqua; 
+    height: 300px; 
+    padding: 60px;
+}
+.boxCard{
+    height: 150px;
+}
+.tablaHorarios{
+    border: 2px solid black;
+    height: 150px;
+}
+
+.imagen{
+    width: 100px; 
+   height: 100px; 
+  object-fit: cover;
+}
+
+#miCarrusel{
+    padding-top: 200px;
+}
+
+#footer{
+    border: 3px solid black;
+    padding-top: 100px;
+    height: 250px;
+}
+.iconos{
+    width: 150px;
+}
